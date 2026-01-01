@@ -96,13 +96,6 @@ The analysis is based on structured retail sales data combining **product attrib
 
 ---
 
-## 📸 Dashboard Snapshot
-
-> 
-
-
----
-
 ## 📌 Conclusion
 
 This Tableau-based Blinkit Sales Dashboard delivers actionable retail insights by combining product, pricing, and outlet-level analysis. The project demonstrates strong capabilities in **data visualization, business analytics, and storytelling**, making it suitable for Data Analyst and Business Intelligence roles.
